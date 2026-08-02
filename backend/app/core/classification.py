@@ -1,0 +1,16 @@
+CLASSIFICATION_LEVELS = {
+    "PUBLIC": 0,
+    "INTERNAL": 1,
+    "CONFIDENTIAL": 2,
+    "SECRET": 3,
+    "TOP_SECRET": 4
+}
+
+ROLE_CLEARANCE = {
+    "CLERK": 1,
+    "DEPT_OFFICER": 2,
+    "AUDITOR": 2,
+    "SECURITY_OFFICER": 3,
+    "ADMIN": 4,
+    "SUPER_ADMIN": 4
+}
